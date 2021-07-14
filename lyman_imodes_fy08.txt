@@ -1,0 +1,6 @@
+Variables:	shot	t1	t2
+Type:	Long	Float	Float
+Data:   1080416018	0.9     1.1
+Data:   1080416021	0.9     1.1
+Data:	1080416024	0.9     1.1
+Data:	1080416025	0.9     1.1
